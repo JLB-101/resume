@@ -1,2 +1,2 @@
 # Resumidor
- Script de summarizacao de texto
+ Script de summarizacao de texto em python 
